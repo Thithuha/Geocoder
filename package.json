@@ -1,0 +1,18 @@
+{
+  "name": "geocoder",
+  "version": "1.0.0",
+  "description": "Mapbox Geocoding API ",
+  "main": "lib/app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "mapbox-gl": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thi thu ha Nguyen",
+  "license": "ISC"
+}
